@@ -8,7 +8,8 @@
 - visualize the type/color matchings
 
 ### Evan
-- (Will enter details)
+- visualizations of image data information (filetype, rgba info, size, dimens)
+  - breakdowns by pokemon
 
 ### Owen
 - Circos plot of type/color matchups? Type matchups?
