@@ -1,0 +1,182 @@
+{
+    "001": {
+        "name": "bulbasaur",
+        "color": "green",
+        "shape": "quadruped",
+        "sprites": [
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/thumb/4/48/Build-A-Bear_PokemonPartyTShirt.png/120px-Build-A-Bear_PokemonPartyTShirt.png",
+                "height": 120,
+                "width": 120,
+                "num_channels": 3,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/3/38/Spr_b_2c_001_s.png",
+                "height": 56,
+                "width": 56,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/b/b6/Spr_1y_001.png",
+                "height": 56,
+                "width": 56,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/7/75/001_s.png",
+                "height": 96,
+                "width": 96,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/e/ee/001MSStad.png",
+                "height": 40,
+                "width": 40,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            }
+        ],
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "height_meters": "0.7",
+        "weight_kg": "6.9",
+        "colors": [
+            "#90ccb3",
+            "#648c71",
+            "#fefefe",
+            "#0e1311",
+            "#76b096"
+        ]
+    },
+    "002": {
+        "name": "ivysaur",
+        "color": "green",
+        "shape": "quadruped",
+        "sprites": [
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/thumb/1/11/Ivysaur_04_018.png/120px-Ivysaur_04_018.png",
+                "height": 120,
+                "width": 120,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/d/dd/Menu_Colo_002.png",
+                "height": 44,
+                "width": 44,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/thumb/c/c1/002Ivysaur_RB.png/120px-002Ivysaur_RB.png",
+                "height": 109,
+                "width": 120,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/thumb/e/e4/Spr_b_7s_002_s.png/120px-Spr_b_7s_002_s.png",
+                "height": 120,
+                "width": 120,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/thumb/f/fe/Spr_7s_002.png/120px-Spr_7s_002.png",
+                "height": 120,
+                "width": 120,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            }
+        ],
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "height_meters": "1.0",
+        "weight_kg": "13.0",
+        "colors": [
+            "#7dbcba",
+            "#528881",
+            "#fefefe",
+            "#0d1211",
+            "#ca7a8d"
+        ]
+    },
+    "003": {
+        "name": "venusaur",
+        "color": "green",
+        "shape": "quadruped",
+        "sprites": [
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/thumb/9/97/Bandai_Jumbo4_Stickers.jpg/120px-Bandai_Jumbo4_Stickers.jpg",
+                "height": 85,
+                "width": 120,
+                "num_channels": 3,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/6/60/Spr_b_4d_003_m.png",
+                "height": 80,
+                "width": 80,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/thumb/8/84/Corey_Venusaur_M20_Razor_Leaf.png/120px-Corey_Venusaur_M20_Razor_Leaf.png",
+                "height": 68,
+                "width": 120,
+                "num_channels": 3,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/f/f2/Spr_3f_003_s.png",
+                "height": 64,
+                "width": 64,
+                "num_channels": 4,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            },
+            {
+                "url": "https://archives.bulbagarden.net/media/upload/thumb/e/e3/Ash_Heracross_Tackle.png/120px-Ash_Heracross_Tackle.png",
+                "height": 90,
+                "width": 120,
+                "num_channels": 3,
+                "ext": "png",
+                "domain": "archives.bulbagarden.net"
+            }
+        ],
+        "types": [
+            "Grass",
+            "Poison"
+        ],
+        "height_meters": "2.0",
+        "weight_kg": "100.0",
+        "colors": [
+            "#78ada8",
+            "#fdfcfc",
+            "#498377",
+            "#d57c86",
+            "#202123"
+        ]
+    }
+}
