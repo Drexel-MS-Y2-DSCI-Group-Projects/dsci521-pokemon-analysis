@@ -6,7 +6,7 @@ Prerequisite: Python 3
 
 ### Running the project
 1. `python -m pip install -r requirements.txt`
-2. `python run.py`
+2. Check out each individual analysis folder for a README on how to run it
 
 ### Dependency highlights
 
@@ -33,6 +33,18 @@ For scraping all relevant data from each of our data sources.
 **lxml**
 
 This subdependency is required for the pandas read_html function to convert html tables into DataFrames.
+
+**PIL**
+
+This dependency is used to do the conversion from hex code to RGB color.
+
+**webcolors**
+
+A library for CSS colors and converting from hex to RGB
+
+**scipy**
+
+Also part of the color analysis, used to find the closest CSS color name a RGB color corresponds to
 
 ### Standard library dependencies
 
