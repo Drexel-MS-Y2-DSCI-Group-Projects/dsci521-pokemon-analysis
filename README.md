@@ -1,6 +1,13 @@
 ## Pokemon Color Analysis
 dsci521-pokemon-analysis contains code that analyzes the aggregated data for Pokemon colors.
 
+## Team Members
+
+- Joseph Lunine: jel99@drexel.edu
+- Owen Marett: om337@drexel.edu
+- Evan Radcliffe: emr76@drexel.edu
+- Jiangyan Shi: js4986@drexel.edu
+
 ## Getting Started
 Prerequisite: Python 3
 
