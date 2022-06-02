@@ -5,3 +5,7 @@ lxml
 scikit-learn
 numpy
 tqdm
+PIL
+matplotlib
+scipy
+webcolors
