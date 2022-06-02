@@ -34,6 +34,10 @@ For scraping all relevant data from each of our data sources.
 
 This subdependency is required for the pandas read_html function to convert html tables into DataFrames.
 
+**holoviews**
+
+Used to generate Chord diagrams.
+
 **PIL**
 
 This dependency is used to do the conversion from hex code to RGB color.
