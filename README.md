@@ -1,5 +1,5 @@
 ## Pokemon Color Analysis
-dsci521-pokemon-analysis contains code that analyzes the aggregated data for Pokemon colors.
+dsci521-pokemon-analysis contains code that analyzes the aggregated data for Pokemon colors and types.
 
 ## Team Members
 
