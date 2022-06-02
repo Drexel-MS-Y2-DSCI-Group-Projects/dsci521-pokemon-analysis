@@ -1,12 +1,19 @@
 ## Pokemon Color Analysis
-dsci521-pokemon-analysis contains code that analyzes the aggregated data for Pokemon colors.
+dsci521-pokemon-analysis contains code that analyzes the aggregated data for Pokemon colors and types.
+
+## Team Members
+
+- Joseph Lunine: jel99@drexel.edu
+- Owen Marett: om337@drexel.edu
+- Evan Radcliffe: emr76@drexel.edu
+- Jiangyan Shi: js4986@drexel.edu
 
 ## Getting Started
 Prerequisite: Python 3
 
 ### Running the project
 1. `python -m pip install -r requirements.txt`
-2. `python run.py`
+2. Check out each individual analysis folder for a README on how to run it
 
 ### Dependency highlights
 
@@ -34,6 +41,26 @@ For scraping all relevant data from each of our data sources.
 
 This subdependency is required for the pandas read_html function to convert html tables into DataFrames.
 
+**holoviews**
+
+Used to generate Chord diagrams.
+
+**PIL**
+
+This dependency is used to do the conversion from hex code to RGB color.
+
+**webcolors**
+
+A library for CSS colors and converting from hex to RGB
+
+**scipy**
+
+Also part of the color analysis, used to find the closest CSS color name a RGB color corresponds to
+
+**tqdm**
+
+Used to time the processing of the image analysis piece
+
 ### Standard library dependencies
 
 **json**
@@ -55,6 +82,10 @@ Regex helps parse tables during bulbapedia scraping only containing pokemon data
 **getopt**
 
 Command line parser tool for simplifying the query input processing.
+
+**os**
+
+For creating data folder to store data as csv file.
 
 ## Sources
 - [PokeAPI](https://pokeapi.co/docs/v2)
