@@ -4,3 +4,7 @@ beautifulsoup4
 lxml
 scikit-learn
 numpy
+PIL
+matplotlib
+scipy
+webcolors
