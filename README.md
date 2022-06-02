@@ -46,6 +46,10 @@ A library for CSS colors and converting from hex to RGB
 
 Also part of the color analysis, used to find the closest CSS color name a RGB color corresponds to
 
+**tqdm**
+
+Used to time the processing of the image analysis piece
+
 ### Standard library dependencies
 
 **json**
@@ -67,6 +71,10 @@ Regex helps parse tables during bulbapedia scraping only containing pokemon data
 **getopt**
 
 Command line parser tool for simplifying the query input processing.
+
+**os**
+
+For creating data folder to store data as csv file.
 
 ## Sources
 - [PokeAPI](https://pokeapi.co/docs/v2)
